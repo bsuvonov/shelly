@@ -1,5 +1,7 @@
 # Shelly - Simple AI-Powered Shell Assistant
 
+AI assistant for shell command generation and debugging
+
 ## Dependencies
 
 ### Required
