@@ -1,4 +1,4 @@
-# Shelly - Simple AI-Powered Terminal Assistant
+# Shelly - Simple AI-Powered Shell Assistant
 
 ## Dependencies
 
