@@ -12,29 +12,6 @@ Simple LLM-powered tool for shell command generation and debugging
   - `xsel`
   - `wl-clipboard` (for Wayland)
 
-### Install clipboard utility
-
-```bash
-# Ubuntu/Debian
-sudo apt install xclip
-
-# Fedora
-sudo dnf install xclip
-
-# Arch
-sudo pacman -S xclip
-```
-
-## Installation
-
-```bash
-# Build and install
-./install.sh
-
-# Initialize with your API key
-shelly --init
-```
-
 ## Usage
 
 ### 1. Debug Mode (`-d` / `--debug`)
