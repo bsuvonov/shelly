@@ -105,4 +105,4 @@ Based on the context, the error appears to be related to...
 
 ## API Usage
 
-Shelly uses DeepSeek via OpenRouter API with the free tier model: `deepseek/deepseek-chat-v3.1:free`. But why? Because it's free and accessible in China without VPN.
+Shelly uses DeepSeek via OpenRouter API with the free tier model: `deepseek/deepseek-chat-v3.1:free`.
